@@ -1,0 +1,21 @@
+.dashboard-container{
+    display: flex;
+}
+
+.dashboard-menu{
+ flex:0.5; 
+}
+
+.dashboard-menu ul{
+    list-style-type: none;
+    margin: 0 auto;
+}
+
+.dashboard-menu li{
+    padding:8px;
+    text-align: center;
+}
+
+.dashboard-content{
+    flex:2.5;
+}
