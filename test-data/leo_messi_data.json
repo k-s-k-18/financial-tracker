@@ -1,0 +1,44 @@
+{
+    "override_accounts":[
+        {
+            "type":"depository",
+            "subtype":"checking",
+            "starting_balance":810.00,
+            "currency":"USD",
+            "transactions":[
+                {
+                    "date_transacted": "2024-12-20",
+                    "date_posted": "2024-12-21",
+                    "amount": -36.72,
+                    "description": "Debit Card Transaction"
+                },
+                {
+                    "date_transacted": "2024-11-15",
+                    "date_posted": "2024-11-16",
+                    "amount": 27.72,
+                    "description": "Transaction into account"
+                }
+            ]
+        },
+        {
+            "type":"depository",
+            "subtype":"savings",
+            "starting_balance":630.90,
+            "currency":"USD",
+            "transactions":[
+                {
+                    "date_transacted": "2024-12-20",
+                    "date_posted": "2024-12-21",
+                    "amount": -36.72,
+                    "description": "Debit Card Transaction"
+                },
+                {
+                    "date_transacted": "2024-11-15",
+                    "date_posted": "2024-11-16",
+                    "amount": 27.72,
+                    "description": "Transaction into account"
+                }
+            ]
+        }
+    ]
+}

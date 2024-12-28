@@ -8,9 +8,10 @@ const Dashboard = ()=>{
             <div className="dashboard-container">
                 <div className="dashboard-menu">
                     <ul>
-                        <li>Home</li>
-                        <li>Transactions</li>
-                        <li>Settings</li>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/">Accounts</a></li>
+                        <li><a href="/">Transactions</a></li>
+                        <li><a href="/">Settings</a></li>
                     </ul>
                 </div>
                 <div className="dashboard-content">
